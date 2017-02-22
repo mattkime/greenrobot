@@ -1,0 +1,16 @@
+{
+  "name": "greenrobot",
+  "version": "0.0.1",
+  "description": "automate consolidation of greenkeeper PRs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index"
+  },
+  "repository": "git@github.com:mattkime/greenrobot.git",
+  "author": "Matt Kime <matt@mattki.me>",
+  "license": "MIT",
+  "dependencies": {
+    "github": "^9.0.0",
+    "rxjs": "^5.2.0"
+  }
+}
